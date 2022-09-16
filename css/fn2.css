@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: hsl(0, 0%, 10%);
+  color: hsl(0, 0%, 92%);
+}
+
+header h1 {
+  font-size: 3rem;
+}
+
+img {
+  width: 100%;
+  margin: 1rem;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+#mainFn2 {
+  width: 70vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#mainFn2 p {
+  font-size: 1.5rem;
+}
