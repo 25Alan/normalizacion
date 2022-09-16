@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   background-color: hsl(0, 0%, 10%);
-  color: hsl(0, 0%, 92%);
+  color: hsl(0, 0%, 94%);
 }
 
 body {
@@ -38,7 +38,7 @@ main p {
   border-style: none;
   border-bottom: 4px solid hsl(268, 93%, 50%);
   font-size: 1.5rem;
-  color: hsl(0, 0%, 0%);
+  color: hsl(0, 10%, 96%);
   background-color: transparent;
 }
 
@@ -62,5 +62,6 @@ main p {
   align-items: center;
   text-align: justify;
   font-size: 2rem;
+  line-height: 40px;
   background-color: transparent;
 }
